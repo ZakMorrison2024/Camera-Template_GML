@@ -49,7 +49,7 @@ case ord("S"):
 vy += 20; // move down 20 pixels
 break;
 
-case default:
+default:
 break; // When NO key is pressed == do nothing
 }
 
