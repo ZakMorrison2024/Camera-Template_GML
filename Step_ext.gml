@@ -1,4 +1,4 @@
-/// STEP EVENT (EXT SCRIPT)
+/// STEP EVENT (Camera and View EXTENDED script)
 // Camera/View movement controls using WASD or Arrow keys
 
     if (keyboard_check(vk_left) || keyboard_check(ord("A"))) {
