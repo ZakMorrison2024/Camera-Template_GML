@@ -27,4 +27,4 @@ vx = 0;  // Initial X position of the camera
 vy = 0;  // Initial Y position of the camera
 vw = default_res_view_width;  // Width of the view
 vh = default_res_view_height;  // Height of the view
-zoom = 0;  // Zoom factor (default is 0) // Optional and best edited/changed depending on the game style/theme.
+zoom = 0;  // Zoom factor (Default is 0) (Optional and best edited/changed depending on the game style/theme)
