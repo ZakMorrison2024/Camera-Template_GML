@@ -56,8 +56,8 @@ The goal of this camera setup is to provide a flexible and scalable solution for
    - Upon running the game, the camera and viewport will automatically adjust to the 960x540 resolution, with the proper 16:9 aspect ratio applied.
 
 ### Explanation of Variables
-- **`default_res_view_width`**: The width of the camera view, set to 960 (half of 1920).
-- **`default_res_view_height`**: The height of the camera view, set to 540 (half of 1080).
+- **`default_res_view_width`**: The default width of the camera view, set to 960 (half of 1920).
+- **`default_res_view_height`**: The default height of the camera view, set to 540 (half of 1080).
 - **`aspect_ratio`**: The aspect ratio calculation (16:9, or 1.777).
 - **`view_enabled`**: Enables the camera view in the game.
 - **`view_visible[0]`**: Makes the first view visible.
