@@ -69,6 +69,8 @@ The goal of this camera setup is to provide a flexible and scalable solution for
 - **`vw`**: Addressor for Camera/View width.
 - **`vh`**: Addressor for Camera/View height.
 - **`zoom`**: Placeholder trigger for Zoom scripts.
+- **`vk_key`**: Call for specific key (replace "key" with appropirate key, doesn't work for "string based character" keys).
+- **`ord("key")`**: Call for "string based character" keys (replace "key" with appropirate character key, doesn't work for special keys).
 
 ## License
 
