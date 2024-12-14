@@ -9,9 +9,9 @@ default_res_view_height = 540; //(1080 % 2)
 aspect_ratio = default_res_view_width/default_res_view_height; //(16:9, 1.777)
 
 // Create camera with view
-view[0] = camera_create_view(0, 0, default_res_view_width, default_res_view_height); // Create a view with 960x540 resolution (half of 1920x1080)
+view[0] = camera_create_view(0, 0, default_res_view_width, default_res_view_height); // Create a view with (default_res_view_width x default_res_view_height resolution)
 
-// Resize application surface to match 960x540 (16:9) resolution
+// Resize application surface to match (default_res_view_width x default_res_view_height resolution) resolution
 window_set_size(default_res_view_width, default_res_view_height);
 surface_resize(application_surface, default_res_view_width, default_res_view_height);
 
