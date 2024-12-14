@@ -1,4 +1,4 @@
-# Game Camera Setup
+# Game Camera Setup - Game Maker Studio
 
 ## Overview
 
