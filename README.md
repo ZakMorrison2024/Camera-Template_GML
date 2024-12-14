@@ -33,7 +33,7 @@ The goal of this camera setup is to provide a flexible and scalable solution for
    The script also adjusts the camera/view based on key-stokes.
 
 6. **Zoom:**  
-   The script also adjusts the camera/ciew width and height.
+   The script also adjusts the camera/view width and height.
    
 
 ## Requirements
