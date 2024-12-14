@@ -50,6 +50,7 @@ The goal of this camera setup is to provide a flexible and scalable solution for
    - Place the script named "Create.gml" into the **Creation Event** of this object.
    - Place the script named "Step.gml" into the **Step Event** of this object.
    - **OPTIONAL:** Use zoom script "Zoom.gml" or write your own.
+   - Make edits to suit you game theme/style.
 
 2. **Run the Game:**
    - Upon running the game, the camera and viewport will automatically adjust to the 960x540 resolution, with the proper 16:9 aspect ratio applied.
