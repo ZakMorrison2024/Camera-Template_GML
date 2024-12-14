@@ -14,7 +14,7 @@
         vy += 20;  // move down 20 pixels
     }
 
-// Update the camera position and size (add this at the end to change camera/view)
+// Update the camera/view position (add this at the end to change camera/view)
     camera_set_view_pos(view[0], vx, vy);
 
 //
@@ -53,7 +53,7 @@ case default:
 break; // When NO key is pressed == do nothing
 }
 
-// Update the camera position and size (add this at the end to change camera/view)
+// Update the camera/view position (add this at the end to change camera/view)
     camera_set_view_pos(view[0], vx, vy);
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -77,5 +77,5 @@ break; // When NO key is pressed == do nothing
     }
        //... continue the script, adjust values to needs. Make sure you use "-" for left and up/west and south, and "+" for right and down/east and north
 
-// Update the camera position and size (add this at the end to change camera/view)
+// Update the camera/view position (add this at the end to change camera/view)
     camera_set_view_pos(view[0], vx, vy);
