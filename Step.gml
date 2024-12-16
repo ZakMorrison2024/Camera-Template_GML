@@ -14,5 +14,5 @@
         vy += 20;  // move down 20 pixels
     }
 
-// Update the camera position and size (add this at the end to change camera/view)
+// Update the camera position (add this at the end to change camera/view)
     camera_set_view_pos(view[0], vx, vy);
